@@ -23,4 +23,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
+.idea/*
+Supprimerait .idea/codeStyles/
+Supprimerait .idea/dbnavigator.xml
+Supprimerait .idea/encodings.xml
+Supprimerait .idea/misc.xml
+Supprimerait .idea/vcs.xml
+Supprimerait .idea/workspace.xml
+Supprimerait src/main/
+Supprimerait target/
